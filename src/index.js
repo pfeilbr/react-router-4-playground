@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 //import App from './App'
+import { BasicExample } from './basic-example'
 import './index.css'
 
 import {
@@ -65,6 +66,6 @@ const Sidebar = () => (
 )
 
 ReactDOM.render(
-  <Root />,
+  <BasicExample /> /* <Root /> */,
   document.getElementById('root')
 );
