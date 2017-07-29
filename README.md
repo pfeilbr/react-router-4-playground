@@ -1,8 +1,9 @@
 # react-router-4-playground
 
-built with [create-react-app](https://github.com/facebookincubator/create-react-app)
+project to learn and experiment with [react-router](https://reacttraining.com/react-router/) 4
 
-see `src/index.js`
+* built with [create-react-app](https://github.com/facebookincubator/create-react-app)
+* see `src/index.js`
 
 **install deps and run**
 
